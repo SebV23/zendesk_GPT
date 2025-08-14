@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "name": "Accommodatie & Boekingen",
+      "faqs": [
+        {
+          "question": "Zijn alle vakantiehuizen hondvriendelijk?",
+          "answer": "Ja, alle vakantiehuizen in ons aanbod zijn specifiek geselecteerd omdat ze hondvriendelijk zijn. Elke accommodatie heeft een veilige omgeving en voldoende ruimte voor je hond om te spelen.",
+          "keywords": ["hondvriendelijk", "accommodatie", "vakantiehuis", "hond", "dieren"]
+        },
+        {
+          "question": "Hoeveel honden mag ik meenemen?",
+          "answer": "Dit verschilt per accommodatie. De meeste huizen staan 1-2 honden toe, maar sommige accommodaties kunnen meer honden huisvesten. Check altijd de specifieke voorwaarden van je gekozen vakantiehuis.",
+          "keywords": ["aantal honden", "meerdere honden", "limiet", "beperking"]
+        },
+        {
+          "question": "Zijn er extra kosten voor honden?",
+          "answer": "De meeste accommodaties vragen een kleine toeslag voor honden (meestal €15-25 per hond per verblijf). Dit is voor extra schoonmaakkosten. De exacte kosten staan vermeld bij elke accommodatie.",
+          "keywords": ["kosten", "toeslag", "prijs", "extra betaling", "schoonmaak"]
+        }
+      ]
+    },
+    {
+      "name": "Hondenvoorzieningen",
+      "faqs": [
+        {
+          "question": "Zijn er uitlaatplaatsen bij de accommodaties?",
+          "answer": "Ja, alle vakantiehuizen hebben veilige uitlaatplaatsen of liggen dicht bij hondenuitlaatgebieden. Veel accommodaties hebben ook omheinde tuinen waar je hond veilig kan spelen.",
+          "keywords": ["uitlaatplaats", "tuin", "omheind", "veilig", "spelen"]
+        },
+        {
+          "question": "Zijn er hondenmanden en voerbakken beschikbaar?",
+          "answer": "Veel accommodaties bieden hondenmanden, voerbakken en andere hondenbenodigdheden aan. Dit staat vermeld in de accommodatiebeschrijving. Je kunt ook altijd van tevoren vragen wat er beschikbaar is.",
+          "keywords": ["hondenmand", "voerbak", "benodigdheden", "uitrusting", "spullen"]
+        },
+        {
+          "question": "Zijn er hondenstranden in de buurt?",
+          "answer": "We selecteren accommodaties die dicht bij hondenstranden of hondvriendelijke natuurgebieden liggen. In de accommodatiebeschrijving vind je informatie over nabijgelegen hondenuitlaatgebieden.",
+          "keywords": ["hondenstrand", "natuurgebied", "uitlaatgebied", "wandelen", "strand"]
+        }
+      ]
+    },
+    {
+      "name": "Reizen & Transport",
+      "faqs": [
+        {
+          "question": "Wat moet ik meenemen voor mijn hond?",
+          "answer": "Neem altijd het paspoort van je hond mee, bewijs van vaccinaties (met name tegen hondsdolheid), en eventuele medicijnen. Een eigen hondenmand en favoriete speeltjes zijn ook aan te raden voor het comfort van je hond.",
+          "keywords": ["paspoort", "vaccinaties", "medicijnen", "spullen", "meenemen"]
+        },
+        {
+          "question": "Zijn er dierenartsen in de buurt?",
+          "answer": "Ja, we zorgen ervoor dat er altijd een dierenarts in de buurt is van onze accommodaties. Bij aankomst krijg je informatie over de dichtstbijzijnde dierenarts en hun contactgegevens.",
+          "keywords": ["dierenarts", "noodgevallen", "ziek", "medische hulp", "contact"]
+        },
+        {
+          "question": "Kan ik mijn hond meenemen in restaurants?",
+          "answer": "Dit verschilt per locatie. Veel restaurants in hondvriendelijke gebieden staan honden toe, vooral op terrassen. We kunnen je informeren over hondvriendelijke restaurants in de buurt van je accommodatie.",
+          "keywords": ["restaurant", "eten", "terras", "hondvriendelijk", "uit eten"]
+        }
+      ]
+    },
+    {
+      "name": "Regels & Beleid",
+      "faqs": [
+        {
+          "question": "Wat zijn de huisregels voor honden?",
+          "answer": "De basisregels zijn: honden niet alleen achterlaten in de accommodatie, honden niet op meubels laten, en altijd opruimen na je hond. Specifieke regels per accommodatie krijg je bij aankomst.",
+          "keywords": ["huisregels", "regels", "beleid", "afspraken", "verplichtingen"]
+        },
+        {
+          "question": "Moet mijn hond aangelijnd zijn?",
+          "answer": "Dit hangt af van de accommodatie en lokale regels. In omheinde tuinen mogen honden vaak los, maar in openbare ruimtes geldt meestal een aangelijnd-verplichting. Check altijd de lokale regels.",
+          "keywords": ["aangelijnd", "lijn", "loslopen", "tuin", "openbaar"]
+        },
+        {
+          "question": "Wat als mijn hond schade veroorzaakt?",
+          "answer": "We vragen alle gasten om verantwoordelijk om te gaan met hun honden. Bij schade wordt dit behandeld volgens de normale schadeafhandeling van de accommodatie. We raden aan om je hond goed in de gaten te houden.",
+          "keywords": ["schade", "verantwoordelijkheid", "aansprakelijkheid", "verzekering"]
+        }
+      ]
+    },
+    {
+      "name": "Activiteiten & Uitjes",
+      "faqs": [
+        {
+          "question": "Zijn er hondvriendelijke wandelroutes?",
+          "answer": "Absoluut! We selecteren accommodaties in gebieden met prachtige wandelroutes waar honden welkom zijn. Je krijgt bij aankomst een overzicht van de mooiste hondvriendelijke wandelingen in de omgeving.",
+          "keywords": ["wandelen", "routes", "natuur", "uitstapjes", "activiteiten"]
+        },
+        {
+          "question": "Kan ik mijn hond meenemen naar bezienswaardigheden?",
+          "answer": "Veel bezienswaardigheden en musea staan honden toe, vooral in hondvriendelijke vakantiegebieden. We kunnen je informeren over welke attracties honden toestaan en welke niet.",
+          "keywords": ["bezienswaardigheden", "musea", "attracties", "toegang", "bezoeken"]
+        },
+        {
+          "question": "Zijn er hondenshows of evenementen?",
+          "answer": "In veel vakantiegebieden worden regelmatig hondvriendelijke evenementen georganiseerd, zoals hondenshows, wandeltochten of hondenstranddagen. We houden je graag op de hoogte van lokale evenementen.",
+          "keywords": ["evenementen", "hondenshows", "feestjes", "activiteiten", "lokaal"]
+        }
+      ]
+    }
+  ],
+  "common_issues": [
+    {
+      "issue": "Hond voelt zich niet thuis",
+      "solutions": [
+        "Neem vertrouwde spullen mee (mand, speeltjes, deken)",
+        "Houd de eerste dag rustig en laat je hond wennen",
+        "Stick zoveel mogelijk aan de normale routine",
+        "Geef extra aandacht en geruststelling"
+      ]
+    },
+    {
+      "issue": "Hond is bang voor nieuwe omgeving",
+      "solutions": [
+        "Laat je hond rustig verkennen",
+        "Blijf kalm en geef positieve bevestiging",
+        "Begin met korte wandelingen in de buurt",
+        "Gebruik vertrouwde commando's en routines"
+      ]
+    },
+    {
+      "issue": "Hond kan niet slapen",
+      "solutions": [
+        "Neem de eigen hondenmand mee",
+        "Houd de normale bedtijdroutine aan",
+        "Zorg voor voldoende beweging overdag",
+        "Gebruik vertrouwde geuren (eigen deken)"
+      ]
+    },
+    {
+      "issue": "Hond eet niet goed",
+      "solutions": [
+        "Neem het normale voer mee",
+        "Stick aan de normale voedingsschema",
+        "Geef tijd om te wennen aan nieuwe omgeving",
+        "Zorg voor rustige eetmomenten"
+      ]
+    }
+  ],
+  "emergency_contacts": {
+    "dierenarts": "Altijd beschikbaar via accommodatie-informatie",
+    "hondenopvang": "Lokale opvangmogelijkheden bij noodgevallen",
+    "hondenwinkel": "Voor voer en benodigdheden in de buurt",
+    "noodnummer": "112 voor spoedeisende hulp"
+  }
+}
+
+
